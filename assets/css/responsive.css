@@ -1,0 +1,51 @@
+@media  (max-width: 1024px) and (min-width: 740px)
+{
+    #content .content-section{
+    
+        width: 800px;
+        max-width: 100%;
+        border: 16px;
+        line-height: 1.5;
+        box-sizing: inherit;
+        margin: 0.5em;
+        text-align: center;
+        padding-top: 64px;
+        padding-bottom: 64px;
+        padding: 16px;
+    
+        
+    }
+    
+}
+@media (min-width: 1024px)
+{
+    .mobile-menu-btn{
+        display: none;
+    }
+}
+@media  (max-width: 740px)
+{
+    #content .content-section{
+    
+        width: 800px;
+        max-width: 100%;
+        border: 16px;
+        line-height: 1.5;
+        box-sizing: inherit;
+        margin: 0.5em;
+        text-align: center;
+        padding-top: 64px;
+        padding-bottom: 64px;
+        padding: 16px;
+    
+        
+    }
+    #nav > li{
+        display: block;
+    }
+    #header .search-icon{
+       display: none;
+    }
+    
+}
+
